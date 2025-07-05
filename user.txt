@@ -3,3 +3,6 @@ process \\
 
 feature-1
 creature a database
+
+feature-2
+create database 2
